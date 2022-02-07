@@ -1,5 +1,9 @@
 # Thymeleaf_Fruit
+
 Fruit Store manage system, using Thymeleaf
+Thymeleaf实现的水果库存管理系统
+
+Thymeleaf, Servlet, HTML, CSS, JavaScript, MySQL...
 ```hive
 功能：文件名对应功能能实现版本
 *1 :初始版本
