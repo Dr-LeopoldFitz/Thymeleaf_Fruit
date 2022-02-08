@@ -12,9 +12,11 @@ Thymeleaf实现的水果库存管理系统
 *3 :增加关键字搜索的版本(功能最完善)
 ```
 版本1访问地址：
+```
 http://localhost:8080/fruit/index
 http://localhost:8080/fruit/index2
 http://localhost:8080/fruit/index3
+```
 
 第二个大版本更新：MVC-Servlet优化，设计Spring MVC简单框架
 多一个中央控制器的好处：FruitController，UserController...中不需要重复出现反射的代码
@@ -38,4 +40,6 @@ applicationContext.xml
 
 ```
 版本2访问地址：
+```
 http://localhost:8080/fruit/fruit.do2
+```
